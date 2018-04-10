@@ -4,11 +4,11 @@ using UnityEngine;
 
 using XLua;
 
-public class LuaController : MonoBehaviour
+public class LuaController : Singleton<LuaController>
 {
     static LuaEnv luaenv;
-    LoaderFile lf;
-    public LuaEnv Luaenv
+    public static LoaderFile lf;
+    public static LuaEnv Luaenv
     {
         get
         {
@@ -22,29 +22,11 @@ public class LuaController : MonoBehaviour
             return luaenv;
         }
     }
- 
-    public static LuaController Instance
+    protected override void Awake()
     {
-        get
-        {
-            if (instance == null)
-            {
-                GameObject g = new GameObject("LuaController");
-                instance = g.AddComponent<LuaController>();
-
-                g.AddComponent<DonDestroyLoad>();
-            }
-            return instance;
-        }
+        base.Awake();
+        Luaenv.DoString("require 'base.init'");
     }
 
-    static LuaController instance;
 
-
-
-
-    private void Awake()
-    {
-        Luaenv.DoString("require 'init'");
-    }
 }

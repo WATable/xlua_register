@@ -8,7 +8,7 @@ public class TestLuaEnv : MonoBehaviour
 {
     private void Start()
     {
-        List<LuaEnv.CustomLoader> loaders = LuaController.Instance.Luaenv.customLoaders;
+        List<LuaEnv.CustomLoader> loaders = LuaController.Luaenv.customLoaders;
     }
 
 }

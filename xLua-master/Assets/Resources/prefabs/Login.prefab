@@ -21,6 +21,7 @@ GameObject:
   - component: {fileID: 224125026072600226}
   - component: {fileID: 222290292589401344}
   - component: {fileID: 114208233962220160}
+  - component: {fileID: 114870906338726184}
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
@@ -38,8 +39,9 @@ GameObject:
   - component: {fileID: 224794209421237308}
   - component: {fileID: 222366506418502824}
   - component: {fileID: 114946590322356428}
+  - component: {fileID: 114461355309835160}
   m_Layer: 5
-  m_Name: LoginPanl
+  m_Name: Login
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -56,6 +58,7 @@ GameObject:
   - component: {fileID: 222104561656186288}
   - component: {fileID: 114710919857297800}
   - component: {fileID: 114654533421880878}
+  - component: {fileID: 114256201666270120}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -96,6 +99,32 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: Login
+--- !u!114 &114256201666270120
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1859479626289044}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ce5aadbf9e95784b8546b87a0a3a16b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 1779890418015400}
+--- !u!114 &114461355309835160
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1820601308239598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ce5aadbf9e95784b8546b87a0a3a16b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 1859479626289044}
 --- !u!114 &114654533421880878
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -164,6 +193,18 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
+--- !u!114 &114870906338726184
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1779890418015400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ce5aadbf9e95784b8546b87a0a3a16b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodes: []
 --- !u!114 &114946590322356428
 MonoBehaviour:
   m_ObjectHideFlags: 1

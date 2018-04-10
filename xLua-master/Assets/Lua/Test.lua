@@ -4,13 +4,9 @@ local View = {}
 
 
 local function Awake()
-	print("Awake");
+	local view = Stack:ctor();
+
+	
 end
 
-
-
-return {
-	
-	Awake = Awake,
-
-}
+return View;
