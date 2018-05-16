@@ -1,2 +1,4 @@
-require "view/Login";
-require "view/InstantieAllBox";
+return {
+	Login = require "view/Login",
+	InstantieAllBox = require "view/InstantieAllBox",
+}

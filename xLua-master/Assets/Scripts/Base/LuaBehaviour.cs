@@ -12,7 +12,6 @@ public class LuaBehaviour : MonoBehaviour
     public LuaObjectAction _Awake;
     public LuaObjectAction _Start;
     public LuaObjectAction _Update;
-
     XLua.LuaTable table;
     public string luascriptsName;
 
