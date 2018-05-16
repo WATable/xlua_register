@@ -1,1 +1,2 @@
-require "view/Login"
+require "view/Login";
+require "view/InstantieAllBox";

@@ -20,7 +20,6 @@ function UIManager.regeist(name,root,instance)
 end
 function UIManager.root()
 	UIRoot = UnityEngine.GameObject.FindGameObjectWithTag("UIRoot");
-	Log.iData(TAG,UIRoot,"-----")
 	return UIRoot;
 end
 

@@ -24,9 +24,9 @@ require "view.Header"
 
 function LoadGameObject(fillName,parent)
 	local Game = AssetManager.Load(fillName);
-
 	local root = UIManager.root().transform;
-	local obj = UnityEngine.GameObject.Instantiate(Game,root);
+
+	local obj = UnityEngine.GameObject.Instantiate(Game,parent or root);
 	return obj;
 end
 

@@ -1,0 +1,4190 @@
+fileFormatVersion: 2
+guid: 9eebebea214e59847a643a9e956299fa
+timeCreated: 1523601255
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tileImage_0
+    21300002: tileImage_1
+    21300004: tileImage_2
+    21300006: tileImage_3
+    21300008: tileImage_4
+    21300010: tileImage_5
+    21300012: tileImage_6
+    21300014: tileImage_7
+    21300016: tileImage_8
+    21300018: tileImage_9
+    21300020: tileImage_10
+    21300022: tileImage_11
+    21300024: tileImage_12
+    21300026: tileImage_13
+    21300028: tileImage_14
+    21300030: tileImage_15
+    21300032: tileImage_16
+    21300034: tileImage_17
+    21300036: tileImage_18
+    21300038: tileImage_19
+    21300040: tileImage_20
+    21300042: tileImage_21
+    21300044: tileImage_22
+    21300046: tileImage_23
+    21300048: tileImage_24
+    21300050: tileImage_25
+    21300052: tileImage_26
+    21300054: tileImage_27
+    21300056: tileImage_28
+    21300058: tileImage_29
+    21300060: tileImage_30
+    21300062: tileImage_31
+    21300064: tileImage_32
+    21300066: tileImage_33
+    21300068: tileImage_34
+    21300070: tileImage_35
+    21300072: tileImage_36
+    21300074: tileImage_37
+    21300076: tileImage_38
+    21300078: tileImage_39
+    21300080: tileImage_40
+    21300082: tileImage_41
+    21300084: tileImage_42
+    21300086: tileImage_43
+    21300088: tileImage_44
+    21300090: tileImage_45
+    21300092: tileImage_46
+    21300094: tileImage_47
+    21300096: tileImage_48
+    21300098: tileImage_49
+    21300100: tileImage_50
+    21300102: tileImage_51
+    21300104: tileImage_52
+    21300106: tileImage_53
+    21300108: tileImage_54
+    21300110: tileImage_55
+    21300112: tileImage_56
+    21300114: tileImage_57
+    21300116: tileImage_58
+    21300118: tileImage_59
+    21300120: tileImage_60
+    21300122: tileImage_61
+    21300124: tileImage_62
+    21300126: tileImage_63
+    21300128: tileImage_64
+    21300130: tileImage_65
+    21300132: tileImage_66
+    21300134: tileImage_67
+    21300136: tileImage_68
+    21300138: tileImage_69
+    21300140: tileImage_70
+    21300142: tileImage_71
+    21300144: tileImage_72
+    21300146: tileImage_73
+    21300148: tileImage_74
+    21300150: tileImage_75
+    21300152: tileImage_76
+    21300154: tileImage_77
+    21300156: tileImage_78
+    21300158: tileImage_79
+    21300160: tileImage_80
+    21300162: tileImage_81
+    21300164: tileImage_82
+    21300166: tileImage_83
+    21300168: tileImage_84
+    21300170: tileImage_85
+    21300172: tileImage_86
+    21300174: tileImage_87
+    21300176: tileImage_88
+    21300178: tileImage_89
+    21300180: tileImage_90
+    21300182: tileImage_91
+    21300184: tileImage_92
+    21300186: tileImage_93
+    21300188: tileImage_94
+    21300190: tileImage_95
+    21300192: tileImage_96
+    21300194: tileImage_97
+    21300196: tileImage_98
+    21300198: tileImage_99
+    21300200: tileImage_100
+    21300202: tileImage_101
+    21300204: tileImage_102
+    21300206: tileImage_103
+    21300208: tileImage_104
+    21300210: tileImage_105
+    21300212: tileImage_106
+    21300214: tileImage_107
+    21300216: tileImage_108
+    21300218: tileImage_109
+    21300220: tileImage_110
+    21300222: tileImage_111
+    21300224: tileImage_112
+    21300226: tileImage_113
+    21300228: tileImage_114
+    21300230: tileImage_115
+    21300232: tileImage_116
+    21300234: tileImage_117
+    21300236: tileImage_118
+    21300238: tileImage_119
+    21300240: tileImage_120
+    21300242: tileImage_121
+    21300244: tileImage_122
+    21300246: tileImage_123
+    21300248: tileImage_124
+    21300250: tileImage_125
+    21300252: tileImage_126
+    21300254: tileImage_127
+    21300256: tileImage_128
+    21300258: tileImage_129
+    21300260: tileImage_130
+    21300262: tileImage_131
+    21300264: tileImage_132
+    21300266: tileImage_133
+    21300268: tileImage_134
+    21300270: tileImage_135
+    21300272: tileImage_136
+    21300274: tileImage_137
+    21300276: tileImage_138
+    21300278: tileImage_139
+    21300280: tileImage_140
+    21300282: tileImage_141
+    21300284: tileImage_142
+    21300286: tileImage_143
+    21300288: tileImage_144
+    21300290: tileImage_145
+    21300292: tileImage_146
+    21300294: tileImage_147
+    21300296: tileImage_148
+    21300298: tileImage_149
+    21300300: tileImage_150
+    21300302: tileImage_151
+    21300304: tileImage_152
+    21300306: tileImage_153
+    21300308: tileImage_154
+    21300310: tileImage_155
+    21300312: tileImage_156
+    21300314: tileImage_157
+    21300316: tileImage_158
+    21300318: tileImage_159
+    21300320: tileImage_160
+    21300322: tileImage_161
+    21300324: tileImage_162
+    21300326: tileImage_163
+    21300328: tileImage_164
+    21300330: tileImage_165
+    21300332: tileImage_166
+    21300334: tileImage_167
+    21300336: tileImage_168
+    21300338: tileImage_169
+    21300340: tileImage_170
+    21300342: tileImage_171
+    21300344: tileImage_172
+    21300346: tileImage_173
+    21300348: tileImage_174
+    21300350: tileImage_175
+    21300352: tileImage_176
+    21300354: tileImage_177
+    21300356: tileImage_178
+    21300358: tileImage_179
+    21300360: tileImage_180
+    21300362: tileImage_181
+    21300364: tileImage_182
+    21300366: tileImage_183
+    21300368: tileImage_184
+    21300370: tileImage_185
+    21300372: tileImage_186
+    21300374: tileImage_187
+    21300376: tileImage_188
+    21300378: tileImage_189
+    21300380: tileImage_190
+    21300382: tileImage_191
+    21300384: tileImage_192
+    21300386: tileImage_193
+    21300388: tileImage_194
+    21300390: tileImage_195
+    21300392: tileImage_196
+    21300394: tileImage_197
+    21300396: tileImage_198
+    21300398: tileImage_199
+    21300400: tileImage_200
+    21300402: tileImage_201
+    21300404: tileImage_202
+    21300406: tileImage_203
+    21300408: tileImage_204
+    21300410: tileImage_205
+    21300412: tileImage_206
+    21300414: tileImage_207
+    21300416: tileImage_208
+    21300418: tileImage_209
+    21300420: tileImage_210
+    21300422: tileImage_211
+    21300424: tileImage_212
+    21300426: tileImage_213
+    21300428: tileImage_214
+    21300430: tileImage_215
+    21300432: tileImage_216
+    21300434: tileImage_217
+    21300436: tileImage_218
+    21300438: tileImage_219
+    21300440: tileImage_220
+    21300442: tileImage_221
+    21300444: tileImage_222
+    21300446: tileImage_223
+    21300448: tileImage_224
+    21300450: tileImage_225
+    21300452: tileImage_226
+    21300454: tileImage_227
+    21300456: tileImage_228
+    21300458: tileImage_229
+    21300460: tileImage_230
+    21300462: tileImage_231
+    21300464: tileImage_232
+    21300466: tileImage_233
+    21300468: tileImage_234
+    21300470: tileImage_235
+    21300472: tileImage_236
+    21300474: tileImage_237
+    21300476: tileImage_238
+    21300478: tileImage_239
+    21300480: tileImage_240
+    21300482: tileImage_241
+    21300484: tileImage_242
+    21300486: tileImage_243
+    21300488: tileImage_244
+    21300490: tileImage_245
+    21300492: tileImage_246
+    21300494: tileImage_247
+    21300496: tileImage_248
+    21300498: tileImage_249
+    21300500: tileImage_250
+    21300502: tileImage_251
+    21300504: tileImage_252
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 5
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 80
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileImage_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 880
+        width: 109
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 883
+        width: 74
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 883
+        width: 229
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 911
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 944
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 951
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_6
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 952
+        width: 116
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_7
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 952
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_8
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 963
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_9
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 963
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 912
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 912
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_12
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 912
+        width: 84
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_13
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 885
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_14
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 893
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_15
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 902
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 770
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_17
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 884
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 808
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_19
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 885
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_20
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 884
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_21
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 848
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 887
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_23
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 795
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 739
+        width: 74
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 739
+        width: 105
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_26
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 739
+        width: 151
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_27
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 804
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_28
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 806
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_29
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 812
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_30
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 752
+        width: 61
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_31
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 822
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_32
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 824
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_33
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 770
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_34
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 770
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_35
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 770
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_36
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 780
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_37
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 741
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_38
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 742
+        width: 103
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_39
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 761
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_40
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 768
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598
+        width: 233
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_42
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 739
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_43
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 740
+        width: 61
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_44
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 740
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_45
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 661
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_46
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 753
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_47
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 753
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_48
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 624
+        width: 75
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_49
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 659
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_50
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 661
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_51
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 660
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_52
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 664
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_53
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 668
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_54
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 668
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_55
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 679
+        width: 91
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_56
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 735
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_57
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 720
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_58
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 702
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_59
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 630
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_60
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 661
+        width: 5
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_61
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 660
+        width: 5
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_62
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 664
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_63
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 682
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_64
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 544
+        width: 112
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_65
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 618
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_66
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 665
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_67
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 627
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_68
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 627
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_69
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 626
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_70
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 627
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_71
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 626
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_72
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 636
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_73
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 599
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_74
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 632
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_75
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 632
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_76
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 637
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 599
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 599
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_79
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 599
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_80
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 599
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_81
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 557
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_82
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 584
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_83
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 593
+        width: 5
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_84
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 593
+        width: 5
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_85
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 593
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_86
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 600
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_87
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 611
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 457
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_89
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 372
+        width: 151
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_90
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 503
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 519
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_92
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 519
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_93
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 524
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_94
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 527
+        width: 95
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_95
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 527
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_96
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 534
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_97
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 557
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_98
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 556
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_99
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 521
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_100
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 563
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_101
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 563
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_102
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 484
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_103
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 508
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_104
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 511
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_105
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 511
+        width: 7
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_106
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 511
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_107
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 516
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_108
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 516
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_109
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 521
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_110
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 520
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_111
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 526
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_112
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 533
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_113
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 526
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_114
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 508
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_115
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 486
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_116
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 486
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_117
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 487
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_118
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 455
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_119
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 455
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_120
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 460
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_121
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 472
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_122
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 484
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_123
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 488
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_124
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 489
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_125
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 500
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_126
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 465
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_127
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 342
+        width: 96
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_128
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 492
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_129
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 484
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_130
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 448
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_131
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 451
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_132
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 451
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_133
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 316
+        width: 74
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_134
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 259
+        width: 151
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_135
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 410
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_136
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 448
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_137
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 412
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_138
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 412
+        width: 120
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_139
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 444
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_140
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 445
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_141
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 416
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_142
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 430
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_143
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 436
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_144
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 443
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_145
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 445
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_146
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 448
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_147
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 414
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_148
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 373
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_149
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 388
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_150
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 416
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_151
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 402
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_152
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 406
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_153
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 408
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_154
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 409
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_155
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 372
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_156
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 299
+        width: 91
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_157
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 372
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_158
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 372
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_159
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 407
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_160
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 373
+        width: 9
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_161
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 373
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_162
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 387
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_163
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 392
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_164
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 370
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_165
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 296
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_166
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 299
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_167
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 302
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_168
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 309
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_169
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 308
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_170
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 311
+        width: 89
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_171
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 319
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_172
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 324
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_173
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 363
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_174
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 367
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_175
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 354
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_176
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 356
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_177
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 350
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_178
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 296
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_179
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 342
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_180
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 342
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_181
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 325
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_182
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 325
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_183
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 325
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_184
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 175
+        width: 73
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_185
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 250
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_186
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 262
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_187
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 267
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_188
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 279
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_189
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 308
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_190
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 297
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_191
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 244
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_192
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 271
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_193
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 226
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_194
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 226
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_195
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 239
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_196
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 239
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_197
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 246
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_198
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 247
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_199
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 286
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 308
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_201
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 220
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_202
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 152
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_203
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 154
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_204
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 176
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_205
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 184
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_206
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 186
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_207
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 196
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_208
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 210
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_209
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 215
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_210
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 220
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_211
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 120
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_212
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 194
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_213
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 158
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_214
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 163
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_215
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 144
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_216
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 154
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_217
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 154
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_218
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 172
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_219
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 165
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_220
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 155
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_221
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 156
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_222
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 157
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_223
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3
+        width: 95
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_224
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 139
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_225
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 93
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_226
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 101
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_227
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 104
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_228
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 106
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_229
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 120
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_230
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 82
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_231
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 70
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_232
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 70
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_233
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 71
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_234
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 72
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_235
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 72
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_236
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 73
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_237
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 73
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_238
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 72
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_239
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 75
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_240
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_241
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_242
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 138
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_243
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 24
+        width: 70
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_244
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_245
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 3
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_246
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 4
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_247
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 11
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_248
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_249
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 20
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_250
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_251
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 3
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileImage_252
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -332, y: -493}
+      - {x: -340, y: -494}
+      - {x: -342, y: -497}
+      - {x: -342, y: -487}
+      - {x: -348, y: -478}
+      - {x: -351, y: -473}
+      - {x: -360, y: -471}
+      - {x: -358, y: -449}
+      - {x: -355, y: -457}
+      - {x: -349, y: -463}
+      - {x: -344, y: -483}
+      - {x: -341, y: -490}
+      - {x: -336, y: -490}
+      - {x: -312, y: -492}
+      - {x: -289, y: -492}
+      - {x: -271, y: -491}
+      - {x: -270, y: -488}
+      - {x: -270, y: -472}
+      - {x: -271, y: -469}
+      - {x: -313, y: -469}
+      - {x: -305, y: -461}
+      - {x: -295, y: -455}
+      - {x: -283, y: -443}
+      - {x: -278, y: -428}
+      - {x: -278, y: -420}
+      - {x: -279, y: -417}
+      - {x: -283, y: -410}
+      - {x: -292, y: -402}
+      - {x: -278, y: -383}
+      - {x: -278, y: -437}
+      - {x: -279, y: -442}
+      - {x: -271, y: -469}
+      - {x: -261, y: -475}
+      - {x: -254, y: -489}
+      - {x: -239, y: -508}
+      - {x: -230, y: -512}
+      - {x: -210, y: -512}
+      - {x: -206, y: -511}
+      - {x: -162, y: -511}
+      - {x: -160, y: -509}
+      - {x: -158, y: -511}
+      - {x: -115, y: -512}
+      - {x: -112, y: -512}
+      - {x: -66, y: -510}
+      - {x: -64, y: -508}
+      - {x: -61, y: -510}
+      - {x: -17, y: -511}
+      - {x: -12, y: -504}
+      - {x: 21, y: -503}
+      - {x: 26, y: -501}
+      - {x: 29, y: -496}
+      - {x: 70, y: -496}
+      - {x: 67, y: -504}
+      - {x: 71, y: -512}
+      - {x: 170, y: -512}
+      - {x: 179, y: -511}
+      - {x: 180, y: -509}
+      - {x: 182, y: -493}
+      - {x: 171, y: -490}
+      - {x: 171, y: -409}
+      - {x: 203, y: -408}
+      - {x: 210, y: -405}
+      - {x: 210, y: -400}
+      - {x: 208, y: -360}
+      - {x: 206, y: -352}
+      - {x: 253, y: -351}
+      - {x: 255, y: -349}
+      - {x: 253, y: -341}
+      - {x: 253, y: -307}
+      - {x: 255, y: -299}
+      - {x: 252, y: -298}
+      - {x: 281, y: -295}
+      - {x: 287, y: -288}
+      - {x: 287, y: -239}
+      - {x: 279, y: -237}
+      - {x: 239, y: -240}
+      - {x: 235, y: -244}
+      - {x: 231, y: -246}
+      - {x: 194, y: -244}
+      - {x: 235, y: -242}
+      - {x: 240, y: -239}
+      - {x: 241, y: -236}
+      - {x: 264, y: -235}
+      - {x: 277, y: -223}
+      - {x: 282, y: -230}
+      - {x: 292, y: -226}
+      - {x: 298, y: -218}
+      - {x: 303, y: -201}
+      - {x: 297, y: -194}
+      - {x: 288, y: -189}
+      - {x: 286, y: -189}
+      - {x: 314, y: -189}
+      - {x: 316, y: -187}
+      - {x: 318, y: -171}
+      - {x: 309, y: -165}
+      - {x: 325, y: -163}
+      - {x: 321, y: -156}
+      - {x: 319, y: -152}
+      - {x: 302, y: -146}
+      - {x: 293, y: -146}
+      - {x: 295, y: -146}
+      - {x: 300, y: -142}
+      - {x: 302, y: -140}
+      - {x: 302, y: -136}
+      - {x: 301, y: -134}
+      - {x: 302, y: -120}
+      - {x: 302, y: -136}
+      - {x: 309, y: -145}
+      - {x: 322, y: -144}
+      - {x: 328, y: -130}
+      - {x: 321, y: -125}
+      - {x: 331, y: -112}
+      - {x: 335, y: -101}
+      - {x: 331, y: -84}
+      - {x: 335, y: -78}
+      - {x: 334, y: -75}
+      - {x: 331, y: -72}
+      - {x: 324, y: -66}
+      - {x: 319, y: -66}
+      - {x: 318, y: -65}
+      - {x: 315, y: -65}
+      - {x: 312, y: -62}
+      - {x: 322, y: -66}
+      - {x: 328, y: -66}
+      - {x: 353, y: -63}
+      - {x: 355, y: -61}
+      - {x: 356, y: -40}
+      - {x: 356, y: 12}
+      - {x: 349, y: 16}
+      - {x: 348, y: 47}
+      - {x: 345, y: 50}
+      - {x: 341, y: 50}
+      - {x: 338, y: 47}
+      - {x: 340, y: 51}
+      - {x: 343, y: 83}
+      - {x: 341, y: 91}
+      - {x: 336, y: 90}
+      - {x: 316, y: 90}
+      - {x: 313, y: 84}
+      - {x: 285, y: 83}
+      - {x: 309, y: 86}
+      - {x: 313, y: 88}
+      - {x: 319, y: 100}
+      - {x: 319, y: 123}
+      - {x: 318, y: 126}
+      - {x: 303, y: 128}
+      - {x: 307, y: 139}
+      - {x: 306, y: 144}
+      - {x: 304, y: 146}
+      - {x: 294, y: 151}
+      - {x: 285, y: 151}
+      - {x: 282, y: 150}
+      - {x: 277, y: 145}
+      - {x: 276, y: 142}
+      - {x: 267, y: 145}
+      - {x: 285, y: 151}
+      - {x: 302, y: 151}
+      - {x: 305, y: 152}
+      - {x: 304, y: 167}
+      - {x: 317, y: 168}
+      - {x: 320, y: 169}
+      - {x: 325, y: 186}
+      - {x: 307, y: 194}
+      - {x: 303, y: 204}
+      - {x: 296, y: 206}
+      - {x: 287, y: 206}
+      - {x: 299, y: 206}
+      - {x: 306, y: 210}
+      - {x: 303, y: 225}
+      - {x: 290, y: 239}
+      - {x: 280, y: 238}
+      - {x: 272, y: 237}
+      - {x: 276, y: 239}
+      - {x: 289, y: 239}
+      - {x: 294, y: 244}
+      - {x: 294, y: 251}
+      - {x: 290, y: 255}
+      - {x: 290, y: 275}
+      - {x: 285, y: 283}
+      - {x: 285, y: 318}
+      - {x: 281, y: 323}
+      - {x: 281, y: 375}
+      - {x: 280, y: 378}
+      - {x: 277, y: 381}
+      - {x: 254, y: 384}
+      - {x: 258, y: 388}
+      - {x: 291, y: 388}
+      - {x: 295, y: 391}
+      - {x: 296, y: 394}
+      - {x: 296, y: 442}
+      - {x: 299, y: 443}
+      - {x: 314, y: 451}
+      - {x: 315, y: 508}
+      - {x: 310, y: 512}
+      - {x: 230, y: 512}
+      - {x: 229, y: 508}
+      - {x: 228, y: 500}
+      - {x: 221, y: 512}
+      - {x: 216, y: 511}
+      - {x: 209, y: 502}
+      - {x: 200, y: 498}
+      - {x: 197, y: 508}
+      - {x: 188, y: 512}
+      - {x: 158, y: 512}
+      - {x: 157, y: 506}
+      - {x: 154, y: 500}
+      - {x: 144, y: 512}
+      - {x: 35, y: 512}
+      - {x: 30, y: 507}
+      - {x: 28, y: 487}
+      - {x: 15, y: 503}
+      - {x: 4, y: 512}
+      - {x: 0, y: 512}
+      - {x: -8, y: 501}
+      - {x: -14, y: 491}
+      - {x: -13, y: 509}
+      - {x: -20, y: 512}
+      - {x: -398, y: 512}
+      - {x: -400, y: 510}
+      - {x: -402, y: 504}
+      - {x: -402, y: 496}
+      - {x: -402, y: 498}
+      - {x: -404, y: 502}
+      - {x: -410, y: 509}
+      - {x: -415, y: 512}
+      - {x: -498, y: 512}
+      - {x: -510, y: 501}
+      - {x: -512, y: 484}
+      - {x: -512, y: 395}
+      - {x: -509, y: 378}
+      - {x: -509, y: 370}
+      - {x: -512, y: 361}
+      - {x: -512, y: 282}
+      - {x: -511, y: 230}
+      - {x: -512, y: 226}
+      - {x: -512, y: -192}
+      - {x: -511, y: -196}
+      - {x: -511, y: -334}
+      - {x: -512, y: -339}
+      - {x: -512, y: -475}
+      - {x: -510, y: -480}
+      - {x: -512, y: -491}
+      - {x: -512, y: -503}
+      - {x: -505, y: -512}
+      - {x: -497, y: -512}
+      - {x: -488, y: -508}
+      - {x: -469, y: -511}
+      - {x: -465, y: -508}
+      - {x: -463, y: -500}
+      - {x: -460, y: -497}
+      - {x: -460, y: -494}
+      - {x: -463, y: -489}
+      - {x: -482, y: -483}
+      - {x: -490, y: -487}
+      - {x: -495, y: -480}
+      - {x: -451, y: -480}
+      - {x: -460, y: -492}
+      - {x: -460, y: -494}
+      - {x: -458, y: -496}
+      - {x: -459, y: -496}
+      - {x: -462, y: -499}
+      - {x: -462, y: -503}
+      - {x: -454, y: -512}
+      - {x: -449, y: -512}
+      - {x: -437, y: -505}
+      - {x: -432, y: -509}
+      - {x: -425, y: -512}
+      - {x: -415, y: -509}
+      - {x: -403, y: -512}
+      - {x: -388, y: -512}
+      - {x: -383, y: -511}
+      - {x: -373, y: -510}
+      - {x: -367, y: -512}
+      - {x: -273, y: -512}
+      - {x: -269, y: -508}
+      - {x: -270, y: -492}
+    - - {x: 21, y: -349}
+      - {x: 46, y: -349}
+      - {x: 46, y: -337}
+      - {x: 23, y: -337}
+      - {x: 21, y: -341}
+    - - {x: -103, y: 161}
+      - {x: -94, y: 167}
+      - {x: -94, y: 177}
+      - {x: -95, y: 180}
+      - {x: -110, y: 180}
+      - {x: -102, y: 192}
+      - {x: -101, y: 201}
+      - {x: -113, y: 213}
+      - {x: -118, y: 225}
+      - {x: -124, y: 226}
+      - {x: -133, y: 226}
+      - {x: -137, y: 223}
+      - {x: -149, y: 202}
+      - {x: -145, y: 187}
+      - {x: -144, y: 182}
+      - {x: -154, y: 173}
+      - {x: -154, y: 168}
+      - {x: -153, y: 165}
+      - {x: -139, y: 155}
+      - {x: -132, y: 147}
+      - {x: -125, y: 147}
+      - {x: -121, y: 154}
+      - {x: -122, y: 171}
+      - {x: -114, y: 163}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

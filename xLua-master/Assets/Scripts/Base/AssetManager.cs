@@ -6,7 +6,8 @@ public class AssetManager : BaseLoad
 {
     public static GameObject Load(string fillname)
     {
-        return Resources.Load<GameObject>("prefabs/" + fillname);
+        GameObject obj = Resources.Load<GameObject>("prefabs/" + fillname);
+        return obj;
     }
 
     
