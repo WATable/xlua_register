@@ -64,7 +64,7 @@ function this.ShowPanel(panelName,data)
 	stack:push(panel);
 end
 
-function this.Open(panelName,data,)
+function this.Open(panelName,data)
 	this.ShowPanel(panelName,data);
 end
 
