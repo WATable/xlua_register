@@ -7,6 +7,10 @@ using XLua;
 
 public class LuaBehaviour : MonoBehaviour
 {
+    public static Type GetThisType()
+    {
+        return typeof(LuaBehaviour);
+    }
     [CSharpCallLua]
     public delegate void LuaObjectAction(object luaObject,params object[] args);
     public LuaObjectAction _Awake;
@@ -30,6 +34,9 @@ public class LuaBehaviour : MonoBehaviour
 
     public void Init()
     {
+        print("==============="+gameObject);
+
+        print(table);
         table.Set("gameObject", gameObject);
         _Awake = table.Get<LuaObjectAction>("Awake");
         _Start = table.Get<LuaObjectAction>("Start");
@@ -45,6 +52,7 @@ public class LuaBehaviour : MonoBehaviour
             {
                 _Awake(table);
             }
+            //this.gameObject.AddComponent("Lua")
         }
     }
 
@@ -88,7 +96,16 @@ public class LuaBehaviour : MonoBehaviour
             {
                 return objs[0] as LuaTable;
             }
-            Debug.LogError(string.Format("Do file '{0:s}' failed", luascriptsName));
+            else
+            {
+                Debug.LogError(string.Format("Do file '{0:s}' failed", luascriptsName));
+                return objs[0] as LuaTable;
+            }
+
+
+            
+            //gameObject.AddComponent(typeof(LuaBehaviour));
+           
         }
         return null;
     }

@@ -4,7 +4,8 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 
-public class BaseLoad : ILoadInterface
+
+public class BaseLoad : ILoadInterface,ILoadCompoent
 {
     public virtual byte[] Load(ref string fillName)
     {
@@ -22,8 +23,16 @@ public class BaseLoad : ILoadInterface
         }
     }
 
+    public void LoadBehaviour(string compoent)
+    {
+        GameObject g;
+        //g.AddComponent
+    }
+
     public virtual GameObject Loadprefab(string fillName)
     {
         return null;
     }
+
+
 }

@@ -11,14 +11,6 @@ local this = UIManager
 local ctrlList = {}
 local panelStack = nil
 
-UIShowType = {
-    ShowOnly = 1,--打开：仅仅打开新的Panel，覆盖以前的
-    Switch = 2,--切换：把现在打开的换成将要打开的（之前的将会被关闭,如Login to Account）
-    Stack = 3,--栈：适用于有返回按钮的panel，将具有返回功能，并对父Panel进行反向传值
-    PopTips = 4,--置顶
-    Count = 5
-}
-
 local UIPanels = require "view/Header"
 -- --[[
 -- 对table运用#计算长度要求
@@ -40,6 +32,7 @@ function this.Init()
         ctrlList[k].panelName = panel --这里赋值panel给UICtrl
     end
 end
+
 local UIRoot = nil
 function this.root()
 	if not UIRoot then
@@ -56,8 +49,11 @@ function this.ShowPanel(panelName,data)
 	local panel = ctrlList[panelName];
 
 	if not panel then error("找不到panel"..panelName) end;
+	local luaBehaviour = CS.LuaBehaviour;
 
+	print("-----",sprinttb(luaBehaviour));
 	panel.gameObject = LoadGameObject(panelName);
+	panel.gameObject:AddComponent(luaBehaviour.GetThisType());
 	panel:Start(data);
 	
 
@@ -81,11 +77,11 @@ function this.DestroyPanel()
 	end
 end
 
-function this.Tick()
-	for i=1,#Stack do
-		Stack[i]:Update();
-	end
-end
+-- function this.Tick()
+-- 	for i=1,#Stack do
+-- 		Stack[i]:Update();
+-- 	end
+-- end
 
 
 function this.Pop()

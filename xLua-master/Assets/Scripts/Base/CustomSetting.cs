@@ -11,6 +11,7 @@ public static class CustomSetting
         typeof(UnityEngine.UI.Button),
         typeof(UnityEngine.UI.Button.ButtonClickedEvent),
         typeof(UnityEngine.UI.Text),
+        typeof(GameObjectExt),
     };
 
     [CSharpCallLua]
